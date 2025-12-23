@@ -1,0 +1,4 @@
+name: Queue
+version: '${version}'
+main: dev.lorenzz.queue.bootstrap.Queue
+api-version: '1.20'
