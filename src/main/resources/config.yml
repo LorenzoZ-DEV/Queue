@@ -1,13 +1,16 @@
 QUEUE:
-  PLAYER_ONLY: "&cThis command can only be used by players."
-  SPECIFY_SERVER: "&cPlease specify a server. Usage: /joinqueue <server>"
-  ALREADY_IN_QUEUE: "&cYou are already in the queue for &e{server}&c."
-  JOINED_QUEUE: "&aYou have joined the queue for &e{server} &7(Position: &e{position}&7)."
-  LEFT_QUEUE: "&aYou have left the queue for &e{server}&a."
-  FULL_QUEUE: "&cThe queue for &e{server} &cis currently full. Please try again later."
-  NOT_IN_QUEUE: "&cYou are not in the queue for &e{server}&c."
-  ERROR_OCCURRED: "&cAn error occurred while processing your request. Please try again later."
-  QUEUE_PAUSED: "&cThe queue for &e{server} &cis currently paused. Please try again later."
-  QUEUE_RESUMED: "&7The queue for &e{server} &7has been resumed."
-  YOU_WILL_BE_MOVED_SOON: "&7You will be moved to &e{server} &7shortly. Please wait..."
-  QUEUE_STOPPED_SUCCESS: "&7The queue for &e{server} &7has been stopped."
+  PLAYER_ONLY: '&5&lQUEUE &8&l» &cQuesto commando puo essere eseguito solo dai giocatori.'
+  SPECIFY_SERVER: '&5&lQUEUE &8&l» &cPerfavore specifica un server. Usa: &a/joinqueue <server>'
+  ALREADY_IN_QUEUE: '&5&lQUEUE &8&l» &cSei gia in coda per il &e{server}&c.'
+  JOINED_QUEUE: '&5&lQUEUE &8&l» &aSei entrato in coda per il &e{server} &7(Posiione: &e{position}&7).'
+  LEFT_QUEUE: '&5&lQUEUE &8&l» &aSei uscito dalla coda per il &e{server}&a.'
+  FULL_QUEUE: '&5&lQUEUE &8&l» &cLa coda per il &e{server} &ce attualmente piena. Perfavore riprova
+    piu tardi.'
+  NOT_IN_QUEUE: '&5&lQUEUE &8&l» &cNon sei in coda per il  &e{server}&c.'
+  ERROR_OCCURRED: '&5&lQUEUE &8&l» &cSi e verificato un problema durante questa operazione perfavore
+    contatta un developer.'
+  QUEUE_PAUSED: '&5&lQUEUE &8&l» &cLa coda per il  &e{server} &ce attualmente in pausa. Perfavore
+    riprova piu tardi.'
+  QUEUE_RESUMED: '&5&lQUEUE &8&l» &7La coda per il &e{server} &7è stata ripristinata.'
+  YOU_WILL_BE_MOVED_SOON: '&5&lQUEUE &8&l» &7Sarai spostato al &e{server} &7a breve. Attendere prego...'
+  QUEUE_STOPPED_SUCCESS: '&5&lQUEUE &8&l» &7La coda per il &e{server} &7è stata stoppata con successo.'

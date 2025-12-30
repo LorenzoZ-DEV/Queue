@@ -69,7 +69,7 @@ public class QueueCore
 
     private void registerCommands(){
         C.info("Registering commands...");
-        CommandManager manager = new CommandManager(this.plugin);
+        CommandManager manager = new CommandManager(this.plugin); 
         manager.register(
                 //user
                 new QueueCmd(),

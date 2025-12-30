@@ -34,10 +34,10 @@ public class QueueCmd
     @Permission("queue.cmd")
     public void root(@Sender Player sender) {
         sender.sendMessage(C.translate("""
-                &7This server is using &aQueue &7by &fLorenzzzzz
+                &7This server is using &dQueue &7by &fLorenzzzzz
                 &r
-                &7Use &a/joinqueue <server> &7to join a queue.
-                &7Use &a/leavequeue &7to leave your current queue.
+                &7Usa &d/joinqueue <server> &7per entrare in coda.
+                &7Usa &d/leavequeue &7per uscire dalla coda.
                 """));
     }
 
